@@ -10,6 +10,3 @@ Auto sign in
 2. 在signin_template里填写header之类的数据
 3. 设置crontab定时运行
 4. 后台运行脚本nohup python -u signin.py > signin.log 2>&1 &
-
-
-
