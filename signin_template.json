@@ -1,0 +1,18 @@
+{
+  "网易云pc": {
+    "host": "music.163.com",
+    "url": "/api/point/dailyTask?csrf_token=placeholder&type=1",
+    "headers": {
+      "Referer": "http://music.163.com/"
+    }
+  },
+  "什么值得买": {
+    "host": "api.smzdm.com",
+    "url": "/v1/user/checkin",
+    "headers": {
+      "content-type": "application/x-www-form-urlencoded",
+      "connection": "Keep-Alive",
+      "host": "api.smzdm.com"
+    }
+  }
+}
